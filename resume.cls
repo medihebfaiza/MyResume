@@ -8,7 +8,7 @@
 
 % personal data
 \name{Mohamed Iheb}{Faiza}
-%\title{Computer title} % optional, remove / comment the line if not wanted
+\title{Engineering Student} % optional, remove / comment the line if not wanted
 \address{SAINT-ELOI}{Montpellier, France}% optional, 
 \phone[mobile]{+33777002237} % optional, remove / comment the line if not wanted
 \email{fmohamediheb@gmail.com} % optional, remove / comment the line if not wanted
