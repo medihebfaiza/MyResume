@@ -14,7 +14,7 @@
 \email{fmohamediheb@gmail.com} % optional, remove / comment the line if not wanted
 \homepage{medihebfaiza.com} % optional, remove / comment the line if not wanted
 \social[github][github.com/medihebfaiza]{medihebfaiza}
-%\social[linkedin][linkedin.com/in/username]{username} 
+\social[linkedin][www.linkedin.com/in/medihebfaiza]{medihebfaiza} 
 %can also do twitter
 %\extrainfo{additional information}                 % optional, remove / comment the line if not wanted
 %\photo[64pt][0.4pt]{photo}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
