@@ -3,13 +3,13 @@
 
 % moderncv themes
 \moderncvstyle{banking} % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
-\moderncvcolor{red}% color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+\moderncvcolor{blue}% color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
 
 
 % personal data
-\name{Mohamed Iheb}{Faiza}
+\name{Mohamed Iheb}{FAIZA}
 \title{Engineering Student} % optional, remove / comment the line if not wanted
-\address{SAINT-ELOI}{Montpellier, France}% optional, 
+\address{570 Route de Ganges}{Montpellier, France}% optional, 
 \phone[mobile]{+33777002237} % optional, remove / comment the line if not wanted
 \email{fmohamediheb@gmail.com} % optional, remove / comment the line if not wanted
 \homepage{medihebfaiza.com} % optional, remove / comment the line if not wanted
